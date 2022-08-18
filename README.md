@@ -2,9 +2,9 @@
 
   <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [Js Course From Jonas](https://github.com/Anas-Shalaby/Javascript-Course)
+- 🔭 I’m currently working on [AWS courses](https://learn.acloud.guru/)
 
-- 🌱 I’m currently learning **React And Node.js**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anas-Shalaby?tab=repositories](https://github.com/Anas-Shalaby?tab=repositories)
 
