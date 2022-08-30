@@ -2,10 +2,6 @@
 
   <h3 align="center">A passionate frontend developer from Egypt</h3>
 
-- 🔭 I’m currently working on [AWS courses](https://learn.acloud.guru/)
-
-- 🌱 I’m currently learning **AWS**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Anas-Shalaby?tab=repositories](https://github.com/Anas-Shalaby?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/anas-youssef-29339b225](https://www.linkedin.com/in/anas-youssef-29339b225)
