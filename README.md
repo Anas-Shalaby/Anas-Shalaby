@@ -10,8 +10,6 @@
 
 - 📫 How to reach me **anasyoussef649@gmail.com**
 
-- 📄 Know about my experiences [Working on it](Working on it)
-
 - ⚡ Fun fact **I am a good Football Player**
 
 <h3 align="left">Connect with me:</h3>
